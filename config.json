@@ -1,6 +1,7 @@
 {
   "app": {
-    "port": 3000
+    "port": 3000,
+    "email": "alexrusakovich@mail.ru"
   },
   "db": {
     "name": "cwp-21",
